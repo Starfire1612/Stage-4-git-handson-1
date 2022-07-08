@@ -1,0 +1,2 @@
+Hello this file is created from a new git branch name GitNewBranch.
+
